@@ -1,3 +1,5 @@
+/*Hocine abderrahmane: merge sort implementation in c*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
