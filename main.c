@@ -12,7 +12,6 @@ void conquer(int* a, int s1 ,int e1 ,int s2 ,int e2){
   for(int i=0 ; i<k ; i++,start++) a[start]=cp[i];
 }
 
-
 void devide(int* a, int start, int end){
   if(start == end) return;
   devide(a, start, (start+end)/2);
