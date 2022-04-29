@@ -8,5 +8,8 @@
 
 In this programme I use one of the sorting algorithms called Merge sort that follow divide and conquer consept </br>
 
+- Time complexity of this programme is: O(nlog(n))
+- Space comlexity: O(1) ( I sort the array in the same array)
+
 
 You can try the code in: https://replit.com/@Abderrahmanehocine/devide-and-conquer?v=1
