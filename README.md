@@ -6,7 +6,7 @@
 
 # Merge-sort
 
-In mergeSort.c file I use one of the sorting algorithms called Merge sort that follow divide and conquer consept </br>
+Is a sorting algorithm. The algorithm divides the array into two halves, recursively sorts them, and finally merges the two sorted halves. </br>
 
 - Time complexity of this programme is: O(nlog(n))
 - Space comlexity: O(1) ( I sort the array in the same array)
@@ -16,7 +16,7 @@ You can try the code in: https://replit.com/@Abderrahmanehocine/devide-and-conqu
 
 # Quick-sort 
 
-In quickSort.c file I use one of the sorting algotithms called Quick sort that also follow divide and conquer consept </br>
+Is a sorting algorithm. The algorithm picks a pivot element and rearranges the array elements so that all elements smaller than the picked pivot element move to the left side of the pivot, and all greater elements move to the right side. Finally, the algorithm recursively sorts the subarrays on the left and right of the pivot element. </br>
 
 - Time complexity of this programme is: O(nlog(n))
 - Space comlexity: O(1)
