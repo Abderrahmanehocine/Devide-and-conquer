@@ -1,4 +1,5 @@
 /*Hocine Abderrahmane: quick sort implemantation*/
+// if you want to run the code read the README.md file
 
 #include <stdio.h>
 
